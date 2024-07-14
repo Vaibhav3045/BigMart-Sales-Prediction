@@ -7,25 +7,33 @@ The project involves the following key steps:
 1. Data Preparation
 
 Loading and inspecting the data
+
 Handling missing values
+
 Encoding categorical variables
+
 Feature engineering to create new meaningful features
 
 2. Exploratory Data Analysis (EDA)
 
 Analyzing the distribution of target and predictor variables
+
 Identifying relationships between different variables
+
 Visualizing important patterns and insights
 
 3. Data Wrangling and Feature Engineering
 
 Cleaning and transforming the data to prepare it for modeling
+
 Creating new features to improve model performance
 
 4. Modeling
 
 Splitting the data into training and testing sets
+
 Training an XGBoost regressor model
+
 Evaluating the model performance using R-squared and RMSE metrics
 
 5. Feature Importance Analysis
